@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, Soy Jonathan</h1>
 <h3 align="center">Soy un desarrollador Full Stack Junior de Castro-Urdiales (Cantabria).</h3>
+<p align="center">Apasionado por la tecnología 💻 creando y aprendiendo dia a dia siempre algo nuevo.<p>
+<p align="center">Deportista y seguidor del deporte entre los que destaca Fútbol, F1 y Baloncesto<p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
