@@ -39,6 +39,8 @@
 <p align="left">
    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://img2.freepng.es/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" alt="dotnet" width="40" height="40"/> 
+  </a>
 </p>
 <h4 align="left">Mobile App Development:</h4>
 <p align="left">
